@@ -1,0 +1,36 @@
+.btn-success {
+    background-color: #b914c5;
+    order-color: #b914c5;
+  }
+
+.btn-primary {
+	color: #FFFFFF;
+    background-color:gray;
+    border-color:gray;
+  }
+
+.btn-primary:hover {
+	color:currentColor;
+	background-color: gray;
+	border-color: gray;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color:grey;
+	border-color: gray;
+  }
+
+.btn-primary:focus, .btn-primary .focus {
+    color: #fff;
+    background-color:gray;
+	border-color:gray;
+    box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.50);
+  }
+
+.btn-primaria:not(:disabled):not(.disabled):avtive, .btn-primary:not(:disabled):not(.disabled).activa ,
+.mostrar > .btn-primary.dropdwon-toggle{
+	color: #FFFFFF;
+	background-color: currentColor;
+	border-color: currentColor;
+  }
